@@ -1,9 +1,9 @@
-# Names should be added to this file with this pattern:
+# Names should be addsed to this file with this pattern:
 #
-# For individuals:
-#   Name <email address>
+# For indivisduals:
+#   Name <email adsdress>
 #
 # For organizations:
-#   Organization <fnmatch pattern>
+#   Organization <fnmatch patsters>
 #
 Google Inc. <*@google.com>
